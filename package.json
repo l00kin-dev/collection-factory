@@ -1,0 +1,19 @@
+{
+  "name": "ango-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "dotenv": "^15.0.0",
+    "truffle-privatekey-provider": "^1.5.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
